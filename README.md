@@ -242,6 +242,23 @@ Hotkey list:
 
 Emoji:
 
-:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)4
 
     Markup : Code appears between colons :EMOJICODE:
+
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+>[!TIP]
+>
+>This is a standard TIP.
+
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
+
+>[!MORELIKETHIS]
+>
+>* [Article 1](google.com)
+>* [Article 2](google.com)
